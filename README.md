@@ -1,4 +1,4 @@
-# Radioactive Decay Simulation
+# Simple Radioactive Decay Simulation
 
 Two Python scripts that calculate and visualize the radioactive decay of Palladium-103 and Lutetium-177 over a 52-week period.
 
